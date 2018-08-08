@@ -9,7 +9,7 @@ content”.
 Baseline Model Architecture
 ![alt text](https://github.com/nehareddyg/Visual-Question-Answering-in-Medical-Domain/blob/master/model.png)
 
-Please refer to AMP report.pdf for implementation details.
+Please refer to the file "AMP report.pdf" for implementation details.
 
 Contributors: 
 G Neha (nehareddyg)
