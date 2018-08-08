@@ -1,4 +1,4 @@
-Authors: Meghana Kotagiri, IMT2014034 & G Neha, IMT2014018
+Authors: Meghana Kotagiri & G Neha
 
 As mentioned in our report:
 Training Dataset=VQAMed2018Train
