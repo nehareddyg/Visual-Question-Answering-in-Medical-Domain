@@ -1,4 +1,4 @@
-Authors: G Neha (nehareddyg) & Meghana Kotagiri (meghanakotagiri) 
+Contributors: G Neha (nehareddyg) & Meghana Kotagiri (meghanakotagiri) 
 
 As mentioned in our report:
 Training Dataset=VQAMed2018Train
